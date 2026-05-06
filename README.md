@@ -27,8 +27,6 @@ Framework: Streamlit
 
 NLP Model: DistilBERT (distilbert-base-uncased-finetuned-sst-2-english)
 
-Hardware Support: PyTorch with CUDA (Optimized for RTX 3050)
-
 Scraping: BeautifulSoup4 & Requests
 
 Analytics: Pandas,Matplotlib
